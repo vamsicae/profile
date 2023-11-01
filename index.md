@@ -13,7 +13,7 @@ Predicted RUL for an Aircraft Engine with 98% accuracy using Deep Learning Class
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vamsicae)
 
-<center><img src="images/Single_pool_engine.png"/></center>
+<center><img src="assets/img/Single_pool_engine.png"/></center>
 
 ---
 ### Ball Bearing Remaining Useful Life Estimation using CNN
@@ -24,5 +24,5 @@ The raw vibration data is converted into small square images, each of the data r
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vamsicaes)
 
-<center><img src="images/Single_pool_engine.png"/></center>
+<center><img src="assets/img/bearing.png"/></center>
 
