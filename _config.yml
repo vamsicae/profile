@@ -1,6 +1,14 @@
 title: Vamsi Kumar Reddy
 logo: /assets/img/vamsi_photo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/vamsi-kumar-reddy-b-856a8516/">LinkedIn</a> |
+  <a href="https://github.com/vamsicae">GitHub</a>
+<br>   
+  I'm working on Data Science, Machine learning,computervision & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with GE Digital team for developing digital twin model.
+  Working in Belcan India for 5 years.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
